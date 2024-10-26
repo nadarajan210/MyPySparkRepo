@@ -13,7 +13,7 @@ if __name__ == '__main__':
     spark = Utils.get_spark_session(job_run_env)
 
     print("Created Spark Session")
-
+    print("This is new cimmit")
     orders_df = DataReader.read_orders(spark,job_run_env)
     orders_filtered = DataManipulation.filter_closed_orders(orders_df)
 
