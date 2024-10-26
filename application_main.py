@@ -7,6 +7,7 @@ if __name__ == '__main__':
         print("Please specify the environment")
         sys.exit(-1)
 
+    print("Hello World...!")
     job_run_env = sys.argv[1]
 
     print("Creating Spark Session")
