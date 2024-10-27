@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "be1ba33086d5abc20965f550c5e5f37d64f927d1e68b4bc08dad7e9dfa4c991f"
+            "sha256": "b3337023519a76d69aa0a1f7b6a78d236edeafdabb006eec55a18663ecd9e3c6"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.7"
+            "python_version": "3.11.2"
         },
         "sources": [
             {
@@ -73,11 +73,11 @@
         },
         "pyspark": {
             "hashes": [
-                "sha256:8d7025fa274830cb6c3bd592228be3d9345cb3b8b1e324018c2aa6e75f48a208"
+                "sha256:b831a99c1aeb058bc4a2498665de10006b899b2438ba15470cc88f577755ebf8"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.4.3"
+            "version": "==3.4.4"
         },
         "pytest": {
             "hashes": [
