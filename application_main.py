@@ -30,5 +30,5 @@ if __name__ == '__main__':
 
     print("This is new branch")
 
-    print("Now it is feature 5001-rd")
+
 
